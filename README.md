@@ -91,7 +91,9 @@ void loop() {
   // Once the image is drawn, you can put the ESP32 to Deep Sleep.
 }
 ```
+Here is the actual hardware output on the GDEH0213Z98 2.13" B/W/R E-Ink display running on the ESP32-S3:
+<div align="center">
 <img width="964" height="1280" alt="zoro" src="https://github.com/user-attachments/assets/67127625-52f3-44a7-bb3e-79a2b67066c2" />
-
+</div>
 ## 📝 License
 This project is open-source and released under the **MIT License**. Feel free to use, modify, and distribute it for your own projects.
