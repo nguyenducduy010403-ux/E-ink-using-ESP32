@@ -91,6 +91,7 @@ void loop() {
   // Once the image is drawn, you can put the ESP32 to Deep Sleep.
 }
 ```
+<img width="964" height="1280" alt="zoro" src="https://github.com/user-attachments/assets/67127625-52f3-44a7-bb3e-79a2b67066c2" />
 
 ## 📝 License
 This project is open-source and released under the **MIT License**. Feel free to use, modify, and distribute it for your own projects.
